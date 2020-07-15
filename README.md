@@ -1,2 +1,2 @@
 # LP
-https://alexandresesi.github.io/VillagerPost-entrevista-professorealuno/
+https://alexandresesi.github.io/VillagerPost-entrevistas-professorealuno/
