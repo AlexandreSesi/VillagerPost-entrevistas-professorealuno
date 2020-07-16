@@ -1,5 +1,5 @@
 body {
-    background-image: url('Texture.jpg');
+    background-image: url('img/Texture.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center top;
@@ -12,7 +12,6 @@ div {
 }
 
 #class {
-    background-image: url("class.jpg");
     border: 1px solid #000000;
     border-radius: 10px;
     background-color: cornsilk;
